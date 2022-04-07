@@ -1,5 +1,5 @@
 ---
-title: 'About me'
+title: 'À propos de moi'
 menu:
   main:
     name: "AboutMe"
@@ -7,7 +7,7 @@ menu:
 
 ## Qui suis-Je?
 
-Hola, aquí vas a leer un poco sobre mi 🤩
+Allò!  Ici vous lirez un peu sur moi 🤩
 
 > Je suis un ingénieur en électronique 
 > qui a appris à programmer en assembleur il y a ... quelques annès
