@@ -13,4 +13,4 @@ Allò!  Ici vous lirez un peu sur moi 🤩
 > qui a appris à programmer en assembleur il y a ... quelques annès
 
 **Mon leitmotif** 
-l’âge n’est important que si vous êtes un vin ou un fromage
+>l’âge n’est important que si vous êtes un vin ou un fromage
